@@ -10,8 +10,8 @@ const docs={
   jobs:{label:"Lakeflow Jobs guide",url:c.jobsGuideUrl}, terraform:{label:"Databricks Terraform provider",url:"https://registry.terraform.io/providers/databricks/databricks/latest/docs"},
 };
 const videos={
-  start:{label:"Video · Free Edition beginner setup",url:"https://www.youtube.com/watch?v=GGqQqjLrJYI"},
-  medallion:{label:"Video · Bronze, Silver & Gold",url:"https://www.youtube.com/watch?v=T0Wys-RULYM"},
+  start:{label:"Video · Databricks Intro",url:"https://www.youtube.com/watch?v=GGqQqjLrJYI"},
+  medallion:{label:"Video · Bronze, Silver & Gold",url:"https://www.youtube.com/watch?v=29FJvrulEAM"},
   dashboard:{label:"Video · Build an AI/BI dashboard",url:"https://www.youtube.com/watch?v=dTH_WrFNM2g"},
   terraform:{label:"Video · Terraform for beginners",url:"https://www.youtube.com/watch?v=Bzccj0jjRBM"},
 };
